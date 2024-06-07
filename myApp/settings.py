@@ -28,7 +28,9 @@ SECRET_KEY = os.getenv('KEY')
 
 
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'myapp-58va.onrender.com'
+]
 
 
 
