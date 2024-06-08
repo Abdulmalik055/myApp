@@ -68,6 +68,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://localhost:3000',
     'https://myapp-58va.onrender.com',
+    'https://thechapterv2.onrender.com',
 ]
 ROOT_URLCONF = 'myApp.urls'
 
